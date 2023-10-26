@@ -1,0 +1,10 @@
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\bin\Debug\netstandard2.0\LiveFootballScoreboard.deps.json
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\bin\Debug\netstandard2.0\LiveFootballScoreboard.dll
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\bin\Debug\netstandard2.0\LiveFootballScoreboard.pdb
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\obj\Debug\netstandard2.0\LiveFootballScoreboard.csproj.CoreCompileInputs.cache
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\obj\Debug\netstandard2.0\LiveFootballScoreboard.AssemblyInfoInputs.cache
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\obj\Debug\netstandard2.0\LiveFootballScoreboard.AssemblyInfo.cs
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\obj\Debug\netstandard2.0\LiveFootballScoreboard.dll
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\obj\Debug\netstandard2.0\LiveFootballScoreboard.pdb
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\bin\Debug\netstandard2.0\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Raheleh\source\repos\FootballWorldCup\FootballWorldCup\obj\Debug\netstandard2.0\LiveFootballScoreboard.csproj.CopyComplete
